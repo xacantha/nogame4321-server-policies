@@ -77,4 +77,4 @@ We may update this policy and will announce significant changes in the server. T
 
 ## 11. Contact
 
-For privacy questions or data requests, contact **@speedysingh or @xacantha** in Discord.
+For privacy questions or data requests, contact **@speedysingh or @xacantha** in Discord. 
